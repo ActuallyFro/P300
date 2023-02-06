@@ -9,7 +9,7 @@ File Info
 |[03_3-0](00_Word-Clouds/03_3-0.png) | 30017 | 69 | joint | 3027 | 53 |
 |[10_2035](00_Word-Clouds/10_2035.png) | 23542 | 48 | air | 3074 | 48 |
 |[07_NSS](00_Word-Clouds/07_NSS.png) | 23309 | 48 | security | 2831 | 73 |
-|[05_3-04](00_Word-Clouds/5_3-04.png) | 18728 | 45 | information | 2041 | 54 |
+|[05_3-04](00_Word-Clouds/05_3-04.png) | 18728 | 45 | information | 2041 | 54 |
 |[01_3-12](00_Word-Clouds/01_3-12.png) | 18044 | 40 | cyberspace | 2161 | 54 |
 |[06_Primer](00_Word-Clouds/06_Primer.png) | 17256 | 37 | cyber | 2851 | 64 |
 |[13_DetRep](00_Word-Clouds/13_DetRep.png) | 14189 | 44 | cyber | 1865 | 63 |
